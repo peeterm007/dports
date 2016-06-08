@@ -1,0 +1,3 @@
+This package contains XWayland: the Xorg server which enables to run Xorg clients under Wayland.
+
+WWW: https://wayland.freedesktop.org/xserver.html
